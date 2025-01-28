@@ -1,0 +1,5 @@
+i02ahbak,45324238R,pueseso123,20,5,20,3,2,7,Kamal,Abdelkader Haddu,usuario,666060191,19
+i02bealj,49509930S,ertiooo23,10,2,10,0,0,0,Jorge,Benitez Alonso,adminUsuarios,690063804,19
+i02rijim,31012119T,emberymono01,5,2,10,0,0,0,Martin,Del Rio Jimenez,adminMaquinas,674961687,20
+l72osjim,51210080M,primaco,20,4,50,7,1,2,Mariano,Osuna Jimenez,usuario,651710108,22
+i12aggua,51211047Y,losvengadores33,12,3,30,7,1,2,Antonio Jesus,Aguayo,usuario,666969674,18
